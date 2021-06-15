@@ -7,4 +7,4 @@ Basically, the optimizer is used in ML training step to find, as an optimization
 
 To demonstrate the usage of the GD and its applicability to a linear regression problem, we are going to explore the dataset of Marketing and Sales from Kaggle, which contains information about TV, influencer, radio, and social media ads budget related to sales.
 
-Dataset from Kaggle: https://www.kaggle.com/harrimansaragih/dummy-advertising-and-sales-data
+[Dataset](https://www.kaggle.com/harrimansaragih/dummy-advertising-and-sales-data) from Kaggle: https://www.kaggle.com/harrimansaragih/dummy-advertising-and-sales-data
